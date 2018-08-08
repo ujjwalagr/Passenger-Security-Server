@@ -1,0 +1,11 @@
+{
+  "name": "passenger_security",
+  "version": "1.0.0",
+  "description": "Main Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ujjwal Agrawal",
+  "license": "ISC"
+}
